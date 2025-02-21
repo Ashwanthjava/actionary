@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Ticktask" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/my_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logoba</item>
+        <item name="android:windowSplashScreenBackground">@color/my_background</item>
+
+    </style>
+</resources>
